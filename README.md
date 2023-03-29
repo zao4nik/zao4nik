@@ -1,4 +1,4 @@
-![cat](./.github/workflows/tumblr_fb1b9083acfa04d5fb98663b5784dccb_18a77dbe_500.gif)
+![cat](./.github/workflows/catImg.gif)
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JS%20Developer&fontSize=90)
 ![Snake animation](https://github.com/zao4nik/zao4nik/blob/output/github-contribution-grid-snake.svg)
 
