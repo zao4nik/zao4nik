@@ -1,5 +1,4 @@
 ![cat](./.github/workflows/catImg.gif)
-![Snake animation](https://github.com/zao4nik/zao4nik/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
